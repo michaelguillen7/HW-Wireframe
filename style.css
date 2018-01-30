@@ -30,17 +30,17 @@ nav {
 section {
     width: 495px;
     background-color: #ebebeb;
-    padding: 20px;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    padding-top: 45px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     color: #777;
     float: left;
 }
 
 article {
     background-color: #777;
-    padding: 30px;
-    margin: 20px;
+    padding: 1px;
+    margin: 10px;
     color: #ebebeb;
 }
 
@@ -55,17 +55,18 @@ p {
     background-color: #ebebeb;
     padding: 20px;
     color: #777;
+    margin: 10px
 }
 
 aside {
     background-color: #ebebeb;
-    padding: 20px;
-    margin-top: 20px;
+    padding-top: 30px;
+    margin-top: 10px;
     margin-bottom: 20px;
     color: #777;
     float: right;
-    height: 392px;
-    width: 405px;
+    height: 303px;
+    width: 435px;
 }
 
 footer {

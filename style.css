@@ -33,7 +33,6 @@ section {
     padding: 20px;
     margin-top: 20px;
     margin-bottom: 20px;
-    margin-right: 20px;
     color: #777;
     float: left;
 }
@@ -47,8 +46,9 @@ article {
 
 .h1 {
     background-color: #ebebeb;
-    padding: 10px;
     color: #777;
+    padding: 10px;
+    width: 100px;
 }
 
 p {
@@ -62,10 +62,9 @@ aside {
     padding: 20px;
     margin-top: 20px;
     margin-bottom: 20px;
-    margin-left: 10px;
     color: #777;
     float: right;
-    height: 375px;
+    height: 392px;
     width: 405px;
 }
 
